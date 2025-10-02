@@ -1,0 +1,92 @@
+[
+  {
+    "section": "overview_core",
+    "period": "current",
+    "metrics": {
+      "tasks_completed": 12847,
+      "avg_efficiency_pct": 90.2,
+      "hours_saved_h": 1247,
+      "revenue_influenced_usd": 2400000,
+      "cost_savings_usd": 847000,
+      "human_interventions_count": 1247,
+      "human_interventions_pct_of_total": 23,
+      "agent_autonomy_rate_pct": 77,
+      "user_satisfaction_score": 4.7,
+      "learning_velocity_pct": 92,
+      "learning_speed_multiplier_x": 3.2
+    }
+  },
+  {
+    "section": "human_engagement_trends",
+    "period": "current",
+    "metrics": {
+      "feedback_requests": 847,
+      "feedback_requests_delta_pct": -12,
+      "escalations": 234,
+      "escalations_delta_pct": -28,
+      "quality_reviews": 166,
+      "quality_reviews_delta_pct": 15,
+      "intervention_reduction_pct": 23
+    }
+  },
+  {
+    "section": "agent_learning_progress",
+    "period": "current",
+    "metrics": {
+      "pattern_recognition_pct": 94,
+      "decision_accuracy_pct": 89,
+      "response_quality_pct": 92,
+      "autonomous_task_growth_pct": 43
+    }
+  },
+  {
+    "section": "sales_impact",
+    "period": "current",
+    "metrics": {
+      "deals_advanced": 247,
+      "pipeline_value_usd": 2400000,
+      "conversion_rate_pct": 18,
+      "response_time_min": 1.2
+    }
+  },
+  {
+    "section": "hr_impact",
+    "period": "current",
+    "metrics": {
+      "time_to_hire_days": -18,
+      "employee_satisfaction_pct": 12,
+      "screening_efficiency_pct": 89,
+      "cost_per_hire_usd": -2400
+    }
+  },
+  {
+    "section": "operations_impact",
+    "period": "current",
+    "metrics": {
+      "bottlenecks_removed": 43,
+      "delivery_speed_pct": 67,
+      "process_efficiency_pct": 92,
+      "error_reduction_pct": -78
+    }
+  },
+  {
+    "section": "roi_quarter",
+    "period": "this_quarter",
+    "metrics": {
+      "value_generated_usd": 3200000,
+      "cost_savings_usd": 847000,
+      "investment_usd": 245000,
+      "net_roi_pct": 1560
+    }
+  },
+  {
+    "section": "roi_annual",
+    "period": "projected_annual",
+    "metrics": {
+      "value_generated_usd": 12800000,
+      "cost_savings_usd": 3400000,
+      "investment_usd": 980000,
+      "net_roi_pct": 1563
+    }
+  }
+]
